@@ -1,1 +1,1 @@
-"# observer-pattern" 
+# Observer Pattern Implementation in C# .NET
